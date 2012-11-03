@@ -10,21 +10,21 @@
     "description" : "berkeley community radio",
     "tags" : [ "public", "community", "talk", "music", "non-commercial" ],
     "location" : "Berkeley, California",
-    "href" : "http://www.kpfa.org/streams/kpfa_64k.m3u",
+    "href" : "http://streams1.kpfa.org:8000/kpfa_64",
     "website" : "http://www.kpfa.org/"
   },
   "ksua" : {
     "description" : "uaf student radio",
     "tags" : [ "college", "university", "student", "music", "non-commercial" ],
-    "location" : "Fairbanks, Alaska",
-    "href" : "http://linux0.cs.uaf.edu/radio/playlists/ksua64stereo.m3u",
+    "location" : "College, Alaska",
+    "href" : "http://linux10.cs.uaf.edu:8000/ksua64stereo",
     "website" : "http://www.ksuaradio.com/"
   },
   "kuac" : {
     "description" : "fairbanks public radio",
-    "tags" : [ "public", "talk", "music", "non-commercial" ]
+    "tags" : [ "public", "talk", "music", "non-commercial" ],
     "location" : "Fairbanks, Alaska",
-    "href" : "http://linux0.cs.uaf.edu/radio/playlists/kuac64stereo.m3u",
+    "href" : "http://linux10.cs.uaf.edu:8000/kuac64stereo",
     "website" : "http://kuac.org/"
   }
 }
