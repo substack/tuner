@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var spawn = require('child_process').spawn;
 var stations = require('./stations.json');
 

@@ -1,0 +1,27 @@
+{
+    "name" : "tuner",
+    "version" : "0.0.0",
+    "description" : "play a roster of internet radio stations",
+    "main" : "index.js",
+    "bin" : {
+        "tuner" : "tuner.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/tuner.git"
+    },
+    "homepage" : "https://github.com/substack/tuner",
+    "keywords" : [
+        "radio",
+        "internet",
+        "streaming",
+        "music",
+        "player"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT"
+}
