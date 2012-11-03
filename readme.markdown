@@ -20,6 +20,14 @@ play a station:
 $ tuner ksua
 ```
 
+search for a station:
+
+```
+$ tuner search alaska
+ksua - uaf student radio (College, Alaska)
+kuac - fairbanks public radio (Fairbanks, Alaska)
+```
+
 # install
 
 With [npm](https://npmjs.org) do:
