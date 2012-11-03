@@ -1,23 +1,27 @@
 {
   "kcsm" : {
+    "description" : "jazz",
     "tags" : [ "jazz", "music", "non-commercial" ],
     "location" : "San Mateo, California",
     "href" : "http://wm-live.abacast.com/kcsm-kcsmwmp641-64",
     "website" : "http://kcsm.org/"
   },
   "kpfa" : {
+    "description" : "berkeley community radio",
     "tags" : [ "public", "community", "talk", "music", "non-commercial" ],
     "location" : "Berkeley, California",
     "href" : "http://www.kpfa.org/streams/kpfa_64k.m3u",
     "website" : "http://www.kpfa.org/"
   },
   "ksua" : {
+    "description" : "uaf student radio",
     "tags" : [ "college", "university", "student", "music", "non-commercial" ],
     "location" : "Fairbanks, Alaska",
     "href" : "http://linux0.cs.uaf.edu/radio/playlists/ksua64stereo.m3u",
     "website" : "http://www.ksuaradio.com/"
   },
   "kuac" : {
+    "description" : "fairbanks public radio",
     "tags" : [ "public", "talk", "music", "non-commercial" ]
     "location" : "Fairbanks, Alaska",
     "href" : "http://linux0.cs.uaf.edu/radio/playlists/kuac64stereo.m3u",
