@@ -70,5 +70,19 @@
     "location" : "Spokane, Washington",
     "href" : "http://www.ophanim.net:7170/",
     "website" : "http://www.kyrs.org/"
+  },
+  "kcrw" : {
+    "description" : "santa monica community radio",
+    "tags" : [ "community", "college", "music" ],
+    "location" : "Santa Monica, California",
+    "href" : "http://64.12.61.1:80/stream/1046",
+    "website" : "http://www.kcrw.com/"
+  },
+  "wluw" : {
+    "description" : "chicago sound alliance",
+    "tags" : [ "college", "community", "music" ],
+    "location" : "Chicago, Illinois",
+    "href" : "http://amber.streamguys.com:4100/stream.mp3",
+    "website" : "http://wluw.org/"
   }
 }
