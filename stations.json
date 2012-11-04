@@ -26,5 +26,12 @@
     "location" : "Fairbanks, Alaska",
     "href" : "http://linux10.cs.uaf.edu:8000/kuac64stereo",
     "website" : "http://kuac.org/"
+  },
+  "krkq": {
+    "description" : "mountain chill",
+    "tags" : [ "chillout", "downtempo", "music" ],
+    "location" : "Ouray, Colorado",
+    "href" : "http://sc1.redmountainradio.com:80",
+    "website" : "http://www.mountainchill.com"
   }
 }
