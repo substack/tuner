@@ -84,5 +84,12 @@
     "location" : "Chicago, Illinois",
     "href" : "http://amber.streamguys.com:4100/stream.mp3",
     "website" : "http://wluw.org/"
+  },
+  "kxlu" : {
+    "description" : "Los Angeles Community Radio Station",
+    "tags" : [ "alma del barrio", "latin", "loyola marymount" ],
+    "location" : "Los Angeles",
+    "href" : "http://www.live365.com/play/293353",
+    "website" : "http://kxlu.com/"
   }
 }
