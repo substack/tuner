@@ -34,14 +34,20 @@
     "href" : "http://sc1.redmountainradio.com:80",
     "website" : "http://www.mountainchill.com"
   },
-  "phish live radio" : {
+  "phish" : {
+    "description" : "phish live radio",
+    "tags" : [ "music" ],
     "href" : "http://radio.nugs.net:8002"
   },
-  "gdradio" : {
+  "gd" : {
+    "description" : "streaming grateful dead",
+    "tags" : [ "music" ],
     "href" : "http://sc1-fmt.spacialnet.com:26260",
     "website" : "http://gdradio.net"
   },
-  "4 ever floyd" : {
+  "floyd" : {
+    "description" : "4 ever floyd",
+    "tags" : [ "music" ],
     "href" : "http://99.198.112.59:8000"
   }
 }
