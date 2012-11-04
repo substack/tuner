@@ -49,5 +49,26 @@
     "description" : "4 ever floyd",
     "tags" : [ "music" ],
     "href" : "http://99.198.112.59:8000"
+  },
+  "hollow-earth-radio" : {
+    "description" : "online radio from seattle, wa",
+    "tags" : [ "music" ],
+    "location" : "Seattle, Washington",
+    "href" : "http://www.loudcity.com/stations/hollow-earth-radio/files/show/hollowearth.pls",
+    "website" : "http://hollowearthradio.org/"
+  },
+  "kaos" : {
+    "description" : "community radio from the evergreen state college",
+    "tags" : [ "music" ],
+    "location" : "Olympia, Washington",
+    "href" : "http://66.224.103.98:8930/listen.pls",
+    "website" : "http://kaos.evergreen.edu/"
+  },
+  "kyrs" : {
+    "description" : "community radio from spokane, wa",
+    "tags" : [ "music" ],
+    "location" : "Seattle, Washington",
+    "href" : "http://www.broadcastmatrix.com/optional/kyrs/itunes.pls",
+    "website" : "http://www.kyrs.org/"
   }
 }
