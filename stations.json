@@ -50,25 +50,25 @@
     "tags" : [ "music" ],
     "href" : "http://99.198.112.59:8000"
   },
-  "hollow-earth-radio" : {
+  "hollow-earth" : {
     "description" : "online radio from seattle, wa",
     "tags" : [ "music" ],
     "location" : "Seattle, Washington",
-    "href" : "http://www.loudcity.com/stations/hollow-earth-radio/files/show/hollowearth.pls",
+    "href" : "http://67.212.189.10:9042",
     "website" : "http://hollowearthradio.org/"
   },
   "kaos" : {
     "description" : "community radio from the evergreen state college",
-    "tags" : [ "music" ],
+    "tags" : [ "community", "public", "music" ],
     "location" : "Olympia, Washington",
-    "href" : "http://66.224.103.98:8930/listen.pls",
+    "href" : "http://66.224.103.98:8930",
     "website" : "http://kaos.evergreen.edu/"
   },
   "kyrs" : {
     "description" : "community radio from spokane, wa",
-    "tags" : [ "music" ],
+    "tags" : [ "community", "public", "music" ],
     "location" : "Spokane, Washington",
-    "href" : "http://www.broadcastmatrix.com/optional/kyrs/itunes.pls",
+    "href" : "http://www.ophanim.net:7170/",
     "website" : "http://www.kyrs.org/"
   }
 }
