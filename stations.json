@@ -33,5 +33,15 @@
     "location" : "Ouray, Colorado",
     "href" : "http://sc1.redmountainradio.com:80",
     "website" : "http://www.mountainchill.com"
+  },
+  "phish live radio" : {
+    "href" : "http://radio.nugs.net:8002"
+  },
+  "gdradio" : {
+    "href" : "http://sc1-fmt.spacialnet.com:26260",
+    "website" : "http://gdradio.net"
+  },
+  "4 ever floyd" : {
+    "href" : "http://99.198.112.59:8000"
   }
 }

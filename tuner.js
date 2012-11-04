@@ -5,7 +5,7 @@ var stations = require('./stations.json');
 
 var cmd = process.argv[2];
 if (cmd === 'play') {
-    play(stations[process.argv[3]]);
+    play(stations[process.argv.slice(3).join(' ')]);
 }
 else if (cmd === 'list') {
     list();
@@ -13,8 +13,8 @@ else if (cmd === 'list') {
 else if (cmd === 'search') {
     search(process.argv.slice(3));
 }
-else if (stations[cmd]) {
-    play(stations[cmd]);
+else if (stations[process.argv.slice(2).join(' ')]) {
+    play(stations[process.argv.slice(2).join(' ')]);
 }
 else list();
 
@@ -41,7 +41,12 @@ function list () {
 
 function show (name) {
     var s = stations[name];
-    return name + ' - ' + s.description + ' (' + s.location + ')';
+    return [ name,
+        [
+            s.description,
+            (s.location ? ' (' + s.location + ')' : '')
+        ].filter(Boolean).join(' ')
+    ].filter(Boolean).join(' - ');
 }
 
 function play (station) {
