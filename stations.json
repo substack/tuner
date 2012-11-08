@@ -91,5 +91,40 @@
     "location" : "Los Angeles",
     "href" : "http://www.live365.com/play/293353",
     "website" : "http://kxlu.com/"
+  },
+  "dfm" : {
+    "description" : "Artist run live radio / chat / multimedia community",
+    "tags" : [ "international", "europe", "dutch", "pirate" ],
+    "location" : "Amsterdam",
+    "href" : "http://dfm.nu/dfm_1.m3u",
+    "website" : "http://dfm.nu"
+  },
+  "wfmu" : {
+    "description" : "WFMU-FM is a listener-supported, non-commercial radio station broadcasting at 91.1 Mhz FM in Jersey City, NJ, right across the Hudson from lower Manhattan. It is currently the longest running freeform radio station in the United States.",
+    "tags" : [ "independent", "eclectic" ],
+    "location" : "New York / New Jersey ",
+    "href" : "http://wfmu.org/wfmu.pls",
+    "website" : "http://wfmu.org/"
+  },
+  "weft" : {
+    "description" : "What makes WEFT 90.1FM different from all commercial stations and most public radio stations is that we are owned and operated by members of the community we serve. WEFT is about variety, diversity, and more.",
+    "tags" : [ "independent", "community", "blues", "jazz", "college" ],
+    "location" : "Champaign, IL",
+    "href" : "http://s9.viastreaming.net:7510/listen.pls",
+    "website" : "http://weft.org/"
+  },
+  "whpk" : {
+    "description" : "WHPK is dedicated to playing music not commonly heard on the mainstream.",
+    "tags" : [ "non-profit", "University of Chicago"],
+    "location" : "Chicago, IL, USA",
+    "href" : "http://www.whpk.org/stream/mp3.m3u",
+    "website" : "http://whpk.org/"
+  },
+  "edgeradio" : {
+    "description" : "Nothing like Edge Radio has existed before in Hobart. We provide a progressive, interactive community service that has been available in other Australian capital cities for decades.",
+    "tags" : [ "Down under", "Hobart"],
+    "location" : "Hobart, Tasmania, Australia ",
+    "href" : "http://131.217.118.2:7990/EdgeRadio.mp3",
+    "website" : "http://edgeradio.org/"
   }
 }
