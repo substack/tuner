@@ -57,6 +57,13 @@
     "href" : "http://67.212.189.10:9042",
     "website" : "http://hollowearthradio.org/"
   },
+  "kexp" : {
+    "description" : "seattle music station",
+    "tags" : [ "music" ],
+    "location" : "Seattle, Washington",
+    "href" : "http://140.142.8.207:8000",
+    "website" : "http://kexp.org/"
+  },
   "kaos" : {
     "description" : "community radio from the evergreen state college",
     "tags" : [ "community", "public", "music" ],
