@@ -1,4 +1,11 @@
 {
+  "kpoo" : {
+    "description" : "revolutionary S.F. radio station",
+    "tags" : ["community", "public", "member supported"],
+    "location" : "San Francisco, CA, USA",
+    "href" : "http://vista.streamguys.com/kpoo",
+    "website" : "http://kpoo.com"
+  },
   "kcsm" : {
     "description" : "jazz",
     "tags" : [ "jazz", "music", "non-commercial" ],
