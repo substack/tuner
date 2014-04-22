@@ -1,6 +1,6 @@
 {
     "name" : "tuner",
-    "version" : "0.0.9",
+    "version" : "0.0.10",
     "description" : "play a roster of internet radio stations",
     "bin" : {
         "tuner" : "tuner.js"
@@ -24,4 +24,3 @@
     },
     "license" : "MIT"
 }
-
