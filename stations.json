@@ -110,7 +110,7 @@
     "description" : "WFMU-FM is a listener-supported, non-commercial radio station broadcasting at 91.1 Mhz FM in Jersey City, NJ, right across the Hudson from lower Manhattan. It is currently the longest running freeform radio station in the United States.",
     "tags" : [ "independent", "eclectic" ],
     "location" : "New York / New Jersey ",
-    "href" : "http://wfmu.org/wfmu.pls",
+    "href" : "http://stream0.wfmu.org/freeform-128k",
     "website" : "http://wfmu.org/"
   },
   "weft" : {
