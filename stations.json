@@ -140,5 +140,12 @@
     "location": "Melbourne, Australia",
     "href": "http://shoutmedia.abc.net.au:10428/;stream.nsv/;7352396245114505stream.nsv",
     "website": "http://abcdoublej.radio.net/"
+  },
+  "redlightradio": {
+    "description": "Red Light Radio is an online radio station and international music platform based in Amsterdam’s Red Light District.",
+    "tags": [ "alternative", "electronic" ],
+    "location": "Amsterdam, the Netherlands",
+    "href": "http://www.michielgardner.nl:8000/redlightradio",
+    "website": "http://redlightradio.net"
   }
 }
