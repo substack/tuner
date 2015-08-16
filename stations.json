@@ -133,5 +133,19 @@
     "location" : "Hobart, Tasmania, Australia ",
     "href" : "http://131.217.118.2:7990/EdgeRadio.mp3",
     "website" : "http://edgeradio.org/"
+  },
+  "doublej": {
+    "description": "Double J is a station for music lovers. We’re bringing you a cohesive and diverse mix of the best new music from Australia and overseas, plus the songs and artists that triple j has championed over the past four decades.",
+    "tags": [ "alternative", "folk", "rock" ],
+    "location": "Melbourne, Australia",
+    "href": "http://shoutmedia.abc.net.au:10428/;stream.nsv/;7352396245114505stream.nsv",
+    "website": "http://abcdoublej.radio.net/"
+  },
+  "redlightradio": {
+    "description": "Red Light Radio is an online radio station and international music platform based in Amsterdam’s Red Light District.",
+    "tags": [ "alternative", "electronic" ],
+    "location": "Amsterdam, the Netherlands",
+    "href": "http://www.michielgardner.nl:8000/redlightradio",
+    "website": "http://redlightradio.net"
   }
 }
