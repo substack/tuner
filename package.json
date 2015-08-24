@@ -1,6 +1,6 @@
 {
     "name" : "tuner",
-    "version" : "0.0.12",
+    "version" : "0.0.13",
     "description" : "play a roster of internet radio stations",
     "bin" : {
         "tuner" : "tuner.js"
