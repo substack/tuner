@@ -147,5 +147,24 @@
     "location": "Amsterdam, the Netherlands",
     "href": "http://www.michielgardner.nl:8000/redlightradio",
     "website": "http://redlightradio.net"
+  },
+  "rfb": {
+    "description": "Radio Free Brooklyn is a non-commercial community freeform Internet radio station, streaming original content by the artists and residents of NYC’s most populous borough 24-hours a day, 7 days a week.",
+    "tags" : [ "independent", "community", "non-commercial" ],
+    "location" : "Brooklyn, NY, USA",
+    "website": "http://radiofreebrooklyn.com/",
+    "href": "http://us1.internet-radio.com:8155/stream"
+  },
+  "anon": {
+    "description": "aNONradio",
+    "tags" : [ "eclectic" ],
+    "href": "http://anonradio.net:8000/anonradio",
+    "website": "http://anonradio.net/"
+  },
+  "2f30": {
+    "description": "Division by Zero",
+    "tags": [ "electronic" ],
+    "href": "http://radio.2f30.org:8000/live.mp3",
+    "website": "https://2f30.org"
   }
 }
