@@ -37,7 +37,7 @@
   "phish" : {
     "description" : "phish live radio",
     "tags" : [ "music" ],
-    "href" : "http://radio.nugs.net:8002"
+    "href" : "http://radio.nugs.net"
   },
   "gd" : {
     "description" : "streaming grateful dead",
@@ -54,7 +54,7 @@
     "description" : "online radio from seattle, wa",
     "tags" : [ "music" ],
     "location" : "Seattle, Washington",
-    "href" : "http://67.212.189.10:9042",
+    "href" : "http://centova.rockhost.com:8001/stream",
     "website" : "http://hollowearthradio.org/"
   },
   "kexp" : {
@@ -96,7 +96,7 @@
     "description" : "Los Angeles Community Radio Station",
     "tags" : [ "alma del barrio", "latin", "loyola marymount" ],
     "location" : "Los Angeles",
-    "href" : "http://www.live365.com/play/293353",
+    "href" : "http://www.ednixon.com:8120/stream",
     "website" : "http://kxlu.com/"
   },
   "dfm" : {
