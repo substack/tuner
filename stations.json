@@ -17,7 +17,7 @@
     "description" : "uaf student radio",
     "tags" : [ "college", "university", "student", "music", "non-commercial" ],
     "location" : "College, Alaska",
-    "href" : "http://linux10.cs.uaf.edu:8000/ksua64stereo",
+    "href" : "http://stereo.wavestreamer.com:9169/",
     "website" : "http://www.ksuaradio.com/"
   },
   "kuac" : {
@@ -37,7 +37,7 @@
   "phish" : {
     "description" : "phish live radio",
     "tags" : [ "music" ],
-    "href" : "http://radio.nugs.net:8002"
+    "href" : "http://radio.nugs.net"
   },
   "gd" : {
     "description" : "streaming grateful dead",
@@ -54,7 +54,7 @@
     "description" : "online radio from seattle, wa",
     "tags" : [ "music" ],
     "location" : "Seattle, Washington",
-    "href" : "http://67.212.189.10:9042",
+    "href" : "http://centova.rockhost.com:8001/stream",
     "website" : "http://hollowearthradio.org/"
   },
   "kexp" : {
@@ -96,7 +96,7 @@
     "description" : "Los Angeles Community Radio Station",
     "tags" : [ "alma del barrio", "latin", "loyola marymount" ],
     "location" : "Los Angeles",
-    "href" : "http://www.live365.com/play/293353",
+    "href" : "http://www.ednixon.com:8120/stream",
     "website" : "http://kxlu.com/"
   },
   "dfm" : {
@@ -147,5 +147,24 @@
     "location": "Amsterdam, the Netherlands",
     "href": "http://www.michielgardner.nl:8000/redlightradio",
     "website": "http://redlightradio.net"
+  },
+  "rfb": {
+    "description": "Radio Free Brooklyn is a non-commercial community freeform Internet radio station, streaming original content by the artists and residents of NYC’s most populous borough 24-hours a day, 7 days a week.",
+    "tags" : [ "independent", "community", "non-commercial" ],
+    "location" : "Brooklyn, NY, USA",
+    "website": "http://radiofreebrooklyn.com/",
+    "href": "http://us1.internet-radio.com:8155/stream"
+  },
+  "anon": {
+    "description": "aNONradio",
+    "tags" : [ "eclectic" ],
+    "href": "http://anonradio.net:8000/anonradio",
+    "website": "http://anonradio.net/"
+  },
+  "2f30": {
+    "description": "Division by Zero",
+    "tags": [ "electronic" ],
+    "href": "http://radio.2f30.org:8000/live.mp3",
+    "website": "https://2f30.org"
   }
 }
