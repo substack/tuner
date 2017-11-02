@@ -50,7 +50,7 @@ function show (name) {
 }
 
 function play (station) {
-    spawn('omxplayer', [ station.href ], {
+    spawn('mplayer', [ station.href ], {
         stdio : [ 0, 1, 2 ]
     });
 }
