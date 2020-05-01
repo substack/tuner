@@ -50,7 +50,7 @@ function show (name) {
 }
 
 function play (station) {
-    spawn('mplayer', [ station.href ], {
+    spawn('mpv', [ station.href ], {
         stdio : [ 0, 1, 2 ]
     });
 }
